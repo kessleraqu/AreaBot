@@ -1,6 +1,6 @@
-# AreaBot2 — AI Technical Support Assistant
+# AreaBot — AI Technical Support Assistant
 
-AreaBot2 is a document-based AI assistant developed to explore how
+AreaBot is a document-based AI assistant developed to explore how
 technical support for HVAC and cooling equipment can be improved using
 large language models and document retrieval.
 
