@@ -1,0 +1,25 @@
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Conversation histories and application state
+conversation_memory/
+conversation_memory.jsonl
+vector_store_state.json
+
+# JavaScript dependencies
+node_modules/
+
+# Python generated files and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and operating system files
+.DS_Store
+
+# Local PDF knowledge base
+pdf/
